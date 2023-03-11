@@ -1,0 +1,61 @@
+<head>
+    <title> latihan css</title>
+    <link rel="stylesheet" href="kode.css">
+
+    <style>
+    *{margin: 0px:
+        padding: 10px ;
+        box sizing: border-box;
+        height: 100%
+    }
+    body{
+        display: flex;
+        flex-direction: column;
+        background-color: yellow; rgb(56, 54, 133);
+    }
+    header{
+        background-color: darksalmon;
+        font-size: 30pt;
+        display: flex;
+        flex: 2;
+    }
+    main{
+        background-color: aquamarine;
+        display:flex;
+        flex: 4;
+        }
+    section{
+        background-color: blueviolet;
+        display: flex;
+        width: 100%;
+        column-gap: 10px;
+    }
+    footer{
+        background-color: fuchsia;
+        display: flex;
+        flex: 1;
+    }
+    aside{
+        background-color: darkkhaki;
+        width: 20%;
+    }
+    article{
+        background-color: lightpink;
+        width: 100%
+    }
+    </style>
+</head>
+
+<body>
+    <header>header</header>
+    <main>
+        <aside>sidebar</aside>
+        <section>
+            <section>konten 1</section>
+            <section>konten 2</section>
+            <section>konten 3</section>
+        </section>
+
+    </main>
+    <footer>footer</footer>
+</body>
