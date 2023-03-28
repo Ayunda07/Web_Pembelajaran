@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Infografis Kota Munich</title>
+        <link rel="stylesheet" href="stylingmain.css">
+        <link rel="icon" href="icon munich.png">
+    </head>
+    
+    <body>
+        <header>
+        
+            
+        <nav>
+            <h1>KOTA MUNICH, GERMANY</h1>
+            <ul>
+            <li><a href="sejarah kota munich.html" target="_blank"> Sejarah Kota Munich  </a></li>
+            <li><a href="wisata kota munich.html" target="_blank"> Wisata Kota Munich </a></li>
+            <li><a href="ekonomi pendidikan.html" target="_blank"> Ekonomi dan Pendidikan Kota Munich  </a></li>
+            </ul>
+        </nav>
+        </header>
+        <div class="container">
+            <main>
+                <article>
+                    <header>
+                        <h2>Kenapa harus Munich?</h2>
+                    </header>
+                    <p>Munich, ibu kota Bavaria kerap disebut-sebut sebagai kota tercantik di Jerman. 
+                        Tak seperti metropolitan lain, Munich tak memiliki gedung pencakar langit karena 
+                        tata kotanya melarang bangunan setinggi lebih dari 99 meter. Alhasil, satu-satunya 
+                        pencakar langit di kota ini adalah gedung Balai Kota (Rathaus) yang juga merupakan 
+                        simbol kota dan di dalamnya terdapat makam raja Bavaria, Ludwig IV. Salah satu kota 
+                        terbesar di Jerman ini pun merupakan kota kedua yang paling sering dikunjungi turis 
+                        setelah Berlin, terutama menjelang Oktoberfest. Berkat Oktoberfest itu jugalah nama 
+                        Munich kemudian mendunia. Faktanya, banyak yang belum menyadari bahwa Munich merupakan 
+                        bagian dari Bavaria atau Bayern dalam bahasa setempat. 
+                        Jerman memiliki 16 negara bagian 
+                        dan Bavaria merupakan negara bagian terbesar di Jerman karena luasnya mencakup seperlima 
+                        sendiri dari total wilayah Jerman. Bavaria menyandang julukan negara bagian kedua paling 
+                        makmur karena pendapatan per kapitanya kedua tertinggi di Jerman. Hal ini didukung keberadaan 
+                        sejumlah pabrik otomotif seperti BMW, Audi, dan Grundig. Selain otomotif, merek-merek ternama 
+                        seperti Puma dan Adidas, hingga Faber-Castell pun berkantor pusat di Bavaria..</p>
+                </article>
+    
+                <article>
+                    <header>
+                        <h2>Terkenal karena klub bolanya!</h2>
+                    </header>
+                    <p>Bayern Munchen merupakan klub sepakbola asal kota Munich, Jerman. Bayern termasuk salah satu klub 
+                        elit di Jerman, Eropa dan dunia. Tim ini menjadi kolektor terbanyak juara Bundesliga Jerman dan 
+                        telah meraih 5 trofi Liga Champions Eropa. Tentunya Bayern memiliki sejarah panjang dari awal 
+                        berdiri hingga mampu sukses seperti sekarang. Klub berjuluk FC Hollywood ini pertama berdiri 
+                        mulai tahun 1900 lalu.</p>
+                </article>
+            </main>
+    
+            <aside>
+                <img src="munich tinggi.png"
+                style="width: 90%;"
+                <h2></h2>
+                <p></p>
+            </aside>
+        </div>
+
+        
+	<footer>
+		<p>Hak Cipta &copy; 2023 Website Sederhana</p>
+	</footer>
+
+    </body>
+</html>
